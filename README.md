@@ -109,7 +109,7 @@ Automates reporting processes and ensures consistency, minimizing the risk of co
 
 ## Tech Stack
 
-- Backend: Python
+- Backend: Node.js (Express)
 - Database: Neo4j
 - Graph Processing: Cypher queries, network analysis
 - Machine Learning: clustering and anomaly detection
